@@ -1,4 +1,2 @@
-# stepik-qaauto-python-git
-Creating a git repository
-
-Change #1
+# stepik-qaauto-python
+Задание: запуск автотестов для разных языков интерфейса
